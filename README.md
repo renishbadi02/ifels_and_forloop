@@ -28,4 +28,4 @@ Edit
 Enter your number: 7
 7 is odd number
 The sum of number from 1 to 50 : 1275
-✅ Tip: Avoid using sum as a variable name, since it's a built-in function in P
+✅ Tip: Avoid using sum as a variable name, since it's a built-in function in Python 
